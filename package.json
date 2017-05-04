@@ -1,7 +1,7 @@
 {
   "name": "hitbox",
   "version": "1.0.0",
-  "description": "Basic hitbox operations",
+  "description": "Basic operations for axis-aligned bounding boxes",
   "license": "MIT",
   "author": "Brandon Semilla (https://github.com/semibran)",
   "main": "hitbox",
