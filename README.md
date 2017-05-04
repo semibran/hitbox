@@ -39,7 +39,7 @@ if (intersects(hero.hitbox, enemy.hitbox)) {
 
 ## install
 ```sh
-npm install semibran/hitbox
+npm install hitbox
 ```
 
 
