@@ -39,7 +39,7 @@ bottom(hitbox) === hitbox.position.y + hitbox.height / 2
 Determines if two hitboxes are overlapping.
 ```javascript
 if (intersects(hero.hitbox, enemy.hitbox)) {
-	// ouch!
+  // ouch!
 }
 ```
 
