@@ -1,13 +1,14 @@
 {
   "name": "hitbox",
   "version": "2.0.1",
-  "description": "helper functions for handling two-dimensional axis-aligned bounding boxes",
-  "author": "semibran",
+  "description": "tiny helper functions for handling axis-aligned bounding boxes",
+  "author": "semibran (Brandon Semilla)",
   "repository": "semibran/hitbox",
   "license": "MIT",
   "main": "lib/hitbox.js",
   "keywords": [
     "hitbox",
+    "game",
     "collision-detection"
   ]
 }
