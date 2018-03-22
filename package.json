@@ -1,6 +1,6 @@
 {
   "name": "hitbox",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "tiny helper functions for handling axis-aligned bounding boxes",
   "author": "semibran (Brandon Semilla)",
   "repository": "semibran/hitbox",
