@@ -1,6 +1,6 @@
 {
   "name": "hitbox",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "helper functions for handling two-dimensional axis-aligned bounding boxes",
   "author": "semibran",
   "repository": "semibran/hitbox",
